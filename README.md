@@ -1,13 +1,48 @@
-## Bem-vindo(a) ao perfil da Marilia-Metzner 😁
+<h1 align="center">Olá! Eu sou a Marília Metzner 👋</h1>
 
- <div>
-   <a href="https://github.com/Marilia-Metzner">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marilia-Metzner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marilia-Metzner&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<p align="center">
+  Estudante de Tecnologia • Desenvolvimento Web • Inteligência Artificial
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Marilia-Metzner?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/github/stars/Marilia-Metzner?style=for-the-badge">
+</p>
+
+---
+
+## 🚀 Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode"/>
+
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+
+<img src="./github-metrics.svg">
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Marilia-Metzner/Marilia-Metzner/output/github-contribution-grid-snake-dark.svg">
+
+</p>
+
+---
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/marilia-metzner-339b17338/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+</p>
