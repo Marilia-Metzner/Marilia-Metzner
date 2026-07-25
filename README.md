@@ -11,29 +11,9 @@
 
 ---
 
-## 🚀 Tecnologias
-
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode"/>
-
-</p>
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-
-<img src="./github-metrics.svg">
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Marilia-Metzner/Marilia-Metzner/output/github-contribution-grid-snake-dark.svg">
 
 </p>
 
